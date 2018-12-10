@@ -1,6 +1,6 @@
 # School_Projects
 All of my school projects
--------------------------
+
 1.  Blackjack
 2.  BattleSnake
 3.  Military Alphabet Test
